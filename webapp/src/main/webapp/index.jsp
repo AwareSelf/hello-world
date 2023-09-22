@@ -1,4 +1,4 @@
-<h3>Namrata Jenkins build & deploy example. </h3>
+<h3> Jenkins build & deploy example. </h3>
 <hr/>
 <form action="action_page.php">
   <div class="container">
